@@ -7,6 +7,6 @@ $arr1[3] = "Car4";
 echo "<pre>";
 print_r($arr1);
 
-// echo $arr1[0];
+echo $arr1[0];
 
 ?>
