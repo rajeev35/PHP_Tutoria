@@ -9,7 +9,10 @@ $arr2 = array(
 
 ); 
 
-echo "<pre>";
+$arr2['test'] = "Testing";
+
+echo '<pre>';
+
 print_r($arr2);
 
 
