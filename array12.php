@@ -7,7 +7,7 @@ $arr2 = array(
     'status'=>'false till now',
     'age'=> 21,
 
-);
+); 
 
 echo "<pre>";
 print_r($arr2);
